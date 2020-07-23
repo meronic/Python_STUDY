@@ -1,3 +1,5 @@
+# 문자열에서 p와 y의 개수 세기
+
 import collections 
 
 ex = 'Pyy'
